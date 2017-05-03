@@ -1,0 +1,102 @@
+[2017-04-27 15:02:22] /Shopnc_b2b2c/shop/index.php ( act=buy&op=buy_step2 ) 
+ERR: Db Error: Duplicate entry '1' for key 'PRIMARY'
+INSERT  INTO `33hao_order_common` (order_id,store_id,order_message,promotion_total,reciver_info,reciver_name,reciver_city_id,invoice_info,promotion_info) VALUES ('1','2','','0','a:6:{s:5:\"phone\";s:11:\"13823191262\";s:9:\"mob_phone\";s:11:\"13823191262\";s:9:\"tel_phone\";s:0:\"\";s:7:\"address\";s:35:\"广东 深圳市 罗湖区 aaaaaaaa\";s:4:\"area\";s:26:\"广东 深圳市 罗湖区\";s:6:\"street\";s:8:\"aaaaaaaa\";}','lin','291','a:0:{}','')
+[2017-04-27 15:02:39] /Shopnc_b2b2c/index.php?act=goods&op=addbrowse&gid=100010 ( act=goods&op=addbrowse ) 
+ERR: Db Error: Duplicate entry '100010-2' for key 'PRIMARY'
+INSERT  INTO `33hao_goods_browse` (goods_id,member_id,browsetime,gc_id,gc_id_1,gc_id_2,gc_id_3) VALUES ('100010','2','1493276559','633','593','599','633')
+[2017-04-27 15:02:46] /Shopnc_b2b2c/shop/index.php ( act=buy&op=buy_step2 ) 
+ERR: Db Error: Duplicate entry '2' for key 'PRIMARY'
+INSERT  INTO `33hao_order_common` (order_id,store_id,order_message,promotion_total,reciver_info,reciver_name,reciver_city_id,invoice_info,promotion_info) VALUES ('2','2','','0','a:6:{s:5:\"phone\";s:11:\"13823191262\";s:9:\"mob_phone\";s:11:\"13823191262\";s:9:\"tel_phone\";s:0:\"\";s:7:\"address\";s:35:\"广东 深圳市 罗湖区 aaaaaaaa\";s:4:\"area\";s:26:\"广东 深圳市 罗湖区\";s:6:\"street\";s:8:\"aaaaaaaa\";}','lin','291','a:0:{}','')
+[2017-04-27 15:03:32] /Shopnc_b2b2c/shop/index.php ( act=buy&op=buy_step2 ) 
+ERR: Db Error: Duplicate entry '3' for key 'PRIMARY'
+INSERT  INTO `33hao_order_common` (order_id,store_id,order_message,promotion_total,reciver_info,reciver_name,reciver_city_id,invoice_info,promotion_info) VALUES ('3','2','','0','a:6:{s:5:\"phone\";s:11:\"13823191262\";s:9:\"mob_phone\";s:11:\"13823191262\";s:9:\"tel_phone\";s:0:\"\";s:7:\"address\";s:35:\"广东 深圳市 罗湖区 aaaaaaaa\";s:4:\"area\";s:26:\"广东 深圳市 罗湖区\";s:6:\"street\";s:8:\"aaaaaaaa\";}','lin','291','a:0:{}','')
+[2017-04-27 15:12:26] /Shopnc_b2b2c/index.php?act=goods&op=addbrowse&gid=100010 ( act=goods&op=addbrowse ) 
+ERR: Db Error: Duplicate entry '100010-2' for key 'PRIMARY'
+INSERT  INTO `33hao_goods_browse` (goods_id,member_id,browsetime,gc_id,gc_id_1,gc_id_2,gc_id_3) VALUES ('100010','2','1493277146','633','593','599','633')
+[2017-04-27 15:12:37] /Shopnc_b2b2c/shop/index.php ( act=buy&op=buy_step2 ) 
+ERR: Db Error: Duplicate entry '4' for key 'PRIMARY'
+INSERT  INTO `33hao_order_common` (order_id,store_id,order_message,promotion_total,reciver_info,reciver_name,reciver_city_id,invoice_info,promotion_info) VALUES ('4','2','','0','a:6:{s:5:\"phone\";s:11:\"13823191262\";s:9:\"mob_phone\";s:11:\"13823191262\";s:9:\"tel_phone\";s:0:\"\";s:7:\"address\";s:35:\"广东 深圳市 罗湖区 aaaaaaaa\";s:4:\"area\";s:26:\"广东 深圳市 罗湖区\";s:6:\"street\";s:8:\"aaaaaaaa\";}','lin','291','a:0:{}','')
+[2017-04-27 15:16:37] /Shopnc_b2b2c/index.php?act=goods&op=addbrowse&gid=100010 ( act=goods&op=addbrowse ) 
+ERR: Db Error: Duplicate entry '100010-2' for key 'PRIMARY'
+INSERT  INTO `33hao_goods_browse` (goods_id,member_id,browsetime,gc_id,gc_id_1,gc_id_2,gc_id_3) VALUES ('100010','2','1493277397','633','593','599','633')
+[2017-04-27 15:19:08] /Shopnc_b2b2c/index.php?act=goods&op=addbrowse&gid=100010 ( act=goods&op=addbrowse ) 
+ERR: Db Error: Duplicate entry '100010-2' for key 'PRIMARY'
+INSERT  INTO `33hao_goods_browse` (goods_id,member_id,browsetime,gc_id,gc_id_1,gc_id_2,gc_id_3) VALUES ('100010','2','1493277548','633','593','599','633')
+[2017-04-27 15:24:38] /Shopnc_b2b2c/index.php?act=goods&op=addbrowse&gid=100010 ( act=goods&op=addbrowse ) 
+ERR: Db Error: Duplicate entry '100010-2' for key 'PRIMARY'
+INSERT  INTO `33hao_goods_browse` (goods_id,member_id,browsetime,gc_id,gc_id_1,gc_id_2,gc_id_3) VALUES ('100010','2','1493277878','633','593','599','633')
+[2017-04-27 15:26:20] /Shopnc_b2b2c/shop/index.php ( act=buy&op=buy_step2 ) 
+ERR: Db Error: Duplicate entry '1' for key 'PRIMARY'
+INSERT  INTO `33hao_order_common` (order_id,store_id,order_message,promotion_total,reciver_info,reciver_name,reciver_city_id,invoice_info,promotion_info) VALUES ('1','2','','0','a:6:{s:5:\"phone\";s:11:\"13823191262\";s:9:\"mob_phone\";s:11:\"13823191262\";s:9:\"tel_phone\";s:0:\"\";s:7:\"address\";s:35:\"广东 深圳市 罗湖区 aaaaaaaa\";s:4:\"area\";s:26:\"广东 深圳市 罗湖区\";s:6:\"street\";s:8:\"aaaaaaaa\";}','lin','291','a:0:{}','')
+[2017-04-27 15:27:54] /Shopnc_b2b2c/index.php?act=goods&op=addbrowse&gid=100010 ( act=goods&op=addbrowse ) 
+ERR: Db Error: Duplicate entry '100010-2' for key 'PRIMARY'
+INSERT  INTO `33hao_goods_browse` (goods_id,member_id,browsetime,gc_id,gc_id_1,gc_id_2,gc_id_3) VALUES ('100010','2','1493278074','633','593','599','633')
+[2017-04-27 15:30:24] /Shopnc_b2b2c/index.php?act=goods&op=addbrowse&gid=100010 ( act=goods&op=addbrowse ) 
+ERR: Db Error: Duplicate entry '100010-2' for key 'PRIMARY'
+INSERT  INTO `33hao_goods_browse` (goods_id,member_id,browsetime,gc_id,gc_id_1,gc_id_2,gc_id_3) VALUES ('100010','2','1493278224','633','593','599','633')
+[2017-04-27 16:15:22] /Shopnc_b2b2c/index.php?act=goods&op=addbrowse&gid=100010 ( act=goods&op=addbrowse ) 
+ERR: Db Error: Duplicate entry '100010-2' for key 'PRIMARY'
+INSERT  INTO `33hao_goods_browse` (goods_id,member_id,browsetime,gc_id,gc_id_1,gc_id_2,gc_id_3) VALUES ('100010','2','1493280922','633','593','599','633')
+[2017-04-27 16:17:25] /Shopnc_b2b2c/index.php?act=goods&op=addbrowse&gid=100010 ( act=goods&op=addbrowse ) 
+ERR: Db Error: Duplicate entry '100010-2' for key 'PRIMARY'
+INSERT  INTO `33hao_goods_browse` (goods_id,member_id,browsetime,gc_id,gc_id_1,gc_id_2,gc_id_3) VALUES ('100010','2','1493281045','633','593','599','633')
+[2017-04-27 20:16:11] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_year&submit=ok&pay_t=4&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&pay_year=2017 ( act=store_brokerage&op=index_year ) 
+ERR: Db Error: Unknown column 'quarter' in 'where clause'
+SELECT * FROM `33hao_rebate_year` WHERE ( store_id = '2' ) AND ( buyer_id = '2' ) AND ( goods_id = '100010' ) AND ( quarter = NULL ) AND ( buyer_vip = '1' ) LIMIT 1  
+[2017-04-27 20:16:11] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_year&submit=ok&pay_t=4&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&pay_year=2017 ( act=store_brokerage&op=index_year ) 
+ERR: Db Error: Unknown column 'quarter' in 'field list'
+INSERT  INTO `33hao_rebate_year` (store_id,buyer_id,goods_id,quarter,buyer_vip,add_time,pay_fee,pay_num,updataId,privilege_val) VALUES ('2','2','100010',NULL,'1','1493295371','2.42','242','7,6,5,4,3,2,1','a:3:{i:10;s:1:\"1\";i:20;s:1:\"0\";i:30;s:1:\"0\";}')
+[2017-04-27 20:16:36] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_year&submit=ok&pay_t=4&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&pay_year=2017 ( act=store_brokerage&op=index_year ) 
+ERR: Db Error: Unknown column 'quarter' in 'where clause'
+SELECT * FROM `33hao_rebate_year` WHERE ( store_id = '2' ) AND ( buyer_id = '2' ) AND ( goods_id = '100010' ) AND ( quarter = NULL ) AND ( buyer_vip = '1' ) LIMIT 1  
+[2017-04-27 20:16:36] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_year&submit=ok&pay_t=4&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&pay_year=2017 ( act=store_brokerage&op=index_year ) 
+ERR: Db Error: Unknown column 'quarter' in 'field list'
+INSERT  INTO `33hao_rebate_year` (store_id,buyer_id,goods_id,quarter,buyer_vip,add_time,pay_fee,pay_num,updataId,privilege_val) VALUES ('2','2','100010',NULL,'1','1493295396','2.42','242','7,6,5,4,3,2,1','a:3:{i:10;s:1:\"1\";i:20;s:1:\"0\";i:30;s:1:\"0\";}')
+[2017-04-27 20:45:27] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_one&submit=ok&pay_t=1&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&search_start_time=++2017-04-27+&search_end_time=++2017-04-27+ ( act=store_brokerage&op=index_one ) 
+ERR: Db Error: Unknown column 'moon' in 'where clause'
+SELECT * FROM `33hao_rebate_one` WHERE ( store_id = '2' ) AND ( buyer_id = '2' ) AND ( goods_id = '100010' ) AND ( moon = NULL ) AND ( buyer_vip = '1' ) LIMIT 1  
+[2017-04-27 20:45:48] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_one&submit=ok&pay_t=1&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&search_start_time=++2017-04-27+&search_end_time=++2017-04-27+ ( act=store_brokerage&op=index_one ) 
+ERR: Db Error: Unknown column 'moon' in 'where clause'
+SELECT * FROM `33hao_rebate_one` WHERE ( store_id = '2' ) AND ( buyer_id = '2' ) AND ( goods_id = '100010' ) AND ( moon = NULL ) AND ( buyer_vip = '1' ) LIMIT 1  
+[2017-04-27 20:45:48] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_one&submit=ok&pay_t=1&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&search_start_time=++2017-04-27+&search_end_time=++2017-04-27+ ( act=store_brokerage&op=index_one ) 
+ERR: Db Error: Unknown column 'moon' in 'field list'
+INSERT  INTO `33hao_rebate_one` (store_id,buyer_id,goods_id,moon,buyer_vip,add_time,pay_fee,pay_num,updataId,privilege_val) VALUES ('2','2','100010',NULL,'1','1493297148','1.10','110','7','a:3:{i:10;s:1:\"1\";i:20;s:1:\"0\";i:30;s:1:\"0\";}')
+[2017-04-27 20:45:48] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_one&submit=ok&pay_t=1&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&search_start_time=++2017-04-27+&search_end_time=++2017-04-27+ ( act=store_brokerage&op=index_one ) 
+ERR: Db Error: Unknown column 'moon' in 'where clause'
+SELECT * FROM `33hao_rebate_one` WHERE ( store_id = '2' ) AND ( buyer_id = '2' ) AND ( goods_id = '100010' ) AND ( moon = NULL ) AND ( buyer_vip = '1' ) AND ( add_time = '1493297148' ) AND ( pay_fee = '1.10' ) AND ( pay_num = '110' ) AND ( updataId = '7' ) AND ( privilege_val = 'a:3:{i:10;s:1:\"1\";i:20;s:1:\"0\";i:30;s:1:\"0\";}' ) LIMIT 1  
+[2017-04-27 20:45:48] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_one&submit=ok&pay_t=1&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&search_start_time=++2017-04-27+&search_end_time=++2017-04-27+ ( act=store_brokerage&op=index_one ) 
+ERR: Db Error: Unknown column 'moon' in 'field list'
+INSERT  INTO `33hao_rebate_one` (store_id,buyer_id,goods_id,moon,buyer_vip,add_time,pay_fee,pay_num,updataId,privilege_val) VALUES ('2','2','100010',NULL,'1','1493297148','0.60','60','6','a:3:{i:10;s:1:\"1\";i:20;s:1:\"0\";i:30;s:1:\"0\";}')
+[2017-04-27 20:45:48] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_one&submit=ok&pay_t=1&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&search_start_time=++2017-04-27+&search_end_time=++2017-04-27+ ( act=store_brokerage&op=index_one ) 
+ERR: Db Error: Unknown column 'moon' in 'where clause'
+SELECT * FROM `33hao_rebate_one` WHERE ( store_id = '2' ) AND ( buyer_id = '2' ) AND ( goods_id = '100010' ) AND ( moon = NULL ) AND ( buyer_vip = '1' ) AND ( add_time = '1493297148' ) AND ( pay_fee = '0.60' ) AND ( pay_num = '60' ) AND ( updataId = '6' ) AND ( privilege_val = 'a:3:{i:10;s:1:\"1\";i:20;s:1:\"0\";i:30;s:1:\"0\";}' ) LIMIT 1  
+[2017-04-27 20:45:48] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_one&submit=ok&pay_t=1&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&search_start_time=++2017-04-27+&search_end_time=++2017-04-27+ ( act=store_brokerage&op=index_one ) 
+ERR: Db Error: Unknown column 'moon' in 'field list'
+INSERT  INTO `33hao_rebate_one` (store_id,buyer_id,goods_id,moon,buyer_vip,add_time,pay_fee,pay_num,updataId,privilege_val) VALUES ('2','2','100010',NULL,'1','1493297148','0.50','50','5','a:3:{i:10;s:1:\"1\";i:20;s:1:\"0\";i:30;s:1:\"0\";}')
+[2017-04-27 20:45:48] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_one&submit=ok&pay_t=1&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&search_start_time=++2017-04-27+&search_end_time=++2017-04-27+ ( act=store_brokerage&op=index_one ) 
+ERR: Db Error: Unknown column 'moon' in 'where clause'
+SELECT * FROM `33hao_rebate_one` WHERE ( store_id = '2' ) AND ( buyer_id = '2' ) AND ( goods_id = '100010' ) AND ( moon = NULL ) AND ( buyer_vip = '1' ) AND ( add_time = '1493297148' ) AND ( pay_fee = '0.50' ) AND ( pay_num = '50' ) AND ( updataId = '5' ) AND ( privilege_val = 'a:3:{i:10;s:1:\"1\";i:20;s:1:\"0\";i:30;s:1:\"0\";}' ) LIMIT 1  
+[2017-04-27 20:45:48] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_one&submit=ok&pay_t=1&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&search_start_time=++2017-04-27+&search_end_time=++2017-04-27+ ( act=store_brokerage&op=index_one ) 
+ERR: Db Error: Unknown column 'moon' in 'field list'
+INSERT  INTO `33hao_rebate_one` (store_id,buyer_id,goods_id,moon,buyer_vip,add_time,pay_fee,pay_num,updataId,privilege_val) VALUES ('2','2','100010',NULL,'1','1493297148','0.06','6','4','a:3:{i:10;s:1:\"1\";i:20;s:1:\"0\";i:30;s:1:\"0\";}')
+[2017-04-27 20:45:48] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_one&submit=ok&pay_t=1&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&search_start_time=++2017-04-27+&search_end_time=++2017-04-27+ ( act=store_brokerage&op=index_one ) 
+ERR: Db Error: Unknown column 'moon' in 'where clause'
+SELECT * FROM `33hao_rebate_one` WHERE ( store_id = '2' ) AND ( buyer_id = '2' ) AND ( goods_id = '100010' ) AND ( moon = NULL ) AND ( buyer_vip = '1' ) AND ( add_time = '1493297148' ) AND ( pay_fee = '0.06' ) AND ( pay_num = '6' ) AND ( updataId = '4' ) AND ( privilege_val = 'a:3:{i:10;s:1:\"1\";i:20;s:1:\"0\";i:30;s:1:\"0\";}' ) LIMIT 1  
+[2017-04-27 20:45:48] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_one&submit=ok&pay_t=1&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&search_start_time=++2017-04-27+&search_end_time=++2017-04-27+ ( act=store_brokerage&op=index_one ) 
+ERR: Db Error: Unknown column 'moon' in 'field list'
+INSERT  INTO `33hao_rebate_one` (store_id,buyer_id,goods_id,moon,buyer_vip,add_time,pay_fee,pay_num,updataId,privilege_val) VALUES ('2','2','100010',NULL,'1','1493297148','0.05','5','3','a:3:{i:10;s:1:\"1\";i:20;s:1:\"0\";i:30;s:1:\"0\";}')
+[2017-04-27 20:45:48] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_one&submit=ok&pay_t=1&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&search_start_time=++2017-04-27+&search_end_time=++2017-04-27+ ( act=store_brokerage&op=index_one ) 
+ERR: Db Error: Unknown column 'moon' in 'where clause'
+SELECT * FROM `33hao_rebate_one` WHERE ( store_id = '2' ) AND ( buyer_id = '2' ) AND ( goods_id = '100010' ) AND ( moon = NULL ) AND ( buyer_vip = '1' ) AND ( add_time = '1493297148' ) AND ( pay_fee = '0.05' ) AND ( pay_num = '5' ) AND ( updataId = '3' ) AND ( privilege_val = 'a:3:{i:10;s:1:\"1\";i:20;s:1:\"0\";i:30;s:1:\"0\";}' ) LIMIT 1  
+[2017-04-27 20:45:48] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_one&submit=ok&pay_t=1&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&search_start_time=++2017-04-27+&search_end_time=++2017-04-27+ ( act=store_brokerage&op=index_one ) 
+ERR: Db Error: Unknown column 'moon' in 'field list'
+INSERT  INTO `33hao_rebate_one` (store_id,buyer_id,goods_id,moon,buyer_vip,add_time,pay_fee,pay_num,updataId,privilege_val) VALUES ('2','2','100010',NULL,'1','1493297148','0.06','6','2','a:3:{i:10;s:1:\"1\";i:20;s:1:\"0\";i:30;s:1:\"0\";}')
+[2017-04-27 20:45:48] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_one&submit=ok&pay_t=1&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&search_start_time=++2017-04-27+&search_end_time=++2017-04-27+ ( act=store_brokerage&op=index_one ) 
+ERR: Db Error: Unknown column 'moon' in 'where clause'
+SELECT * FROM `33hao_rebate_one` WHERE ( store_id = '2' ) AND ( buyer_id = '2' ) AND ( goods_id = '100010' ) AND ( moon = NULL ) AND ( buyer_vip = '1' ) AND ( add_time = '1493297148' ) AND ( pay_fee = '0.06' ) AND ( pay_num = '6' ) AND ( updataId = '2' ) AND ( privilege_val = 'a:3:{i:10;s:1:\"1\";i:20;s:1:\"0\";i:30;s:1:\"0\";}' ) LIMIT 1  
+[2017-04-27 20:45:48] /Shopnc_b2b2c/index.php?act=store_brokerage&op=index_one&submit=ok&pay_t=1&pay_buyer_id=2&pay_goods_id=100010&pay_privilege_id=1&search_start_time=++2017-04-27+&search_end_time=++2017-04-27+ ( act=store_brokerage&op=index_one ) 
+ERR: Db Error: Unknown column 'moon' in 'field list'
+INSERT  INTO `33hao_rebate_one` (store_id,buyer_id,goods_id,moon,buyer_vip,add_time,pay_fee,pay_num,updataId,privilege_val) VALUES ('2','2','100010',NULL,'1','1493297148','0.05','5','1','a:3:{i:10;s:1:\"1\";i:20;s:1:\"0\";i:30;s:1:\"0\";}')
+[2017-04-27 20:58:02] /Shopnc_b2b2c/index.php?act=store_brokerage&op=pay&secret=eyJvcmRJZCI6IjciLCJidXlOdW0iOiI1IiwiYnV5RmVlIjoiMC4wNSIsInNlbGxlcl9pZCI6IjIiLCJzY2FsZSI6MCwic2NhbGVfZmVlIjowLCJzZWFyY2hJZCI6IjEifQ== ( act=store_brokerage&op=pay ) 
+ERR: Db Error: Column 'from_to' cannot be null
+INSERT  INTO `33hao_rebate_log` (buyNum,buyFee,seller_name,seller_id,scale,scale_fee,searchId,searchTime,privilege_val,add_time,from_to) VALUES ('5','0.05',NULL,'2','0','0','1',NULL,NULL,'1493297882',NULL)

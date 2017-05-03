@@ -1,0 +1,3 @@
+[2017-04-13 10:17:53] http://192.168.0.174/Shopnc_b2b2c/shop/?act=store_list&keyword=%E6%B5%8B%E8%AF%95 ( act=store_list&op=index ) 
+ERR: Db Error: Table 'ceshi.33hao_order' doesn't exist
+SELECT store_id,count(*) as order_count FROM `33hao_order` WHERE ( store_id IN ('2') ) AND ( add_time > '1484273873' ) GROUP BY store_id LIMIT 1000  

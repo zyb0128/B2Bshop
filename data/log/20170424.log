@@ -1,0 +1,201 @@
+[2017-04-24 11:12:03] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=100010&search_start_time=2017-04-24 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '2017-04-24' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:12:03] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=100010&search_start_time=2017-04-24 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '2017-04-24' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:12:09] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-21 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( start_time = '2017-04-21' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:12:09] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-21 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( start_time = '2017-04-21' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:12:35] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-21 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( start_time = '2017-04-21' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:12:35] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-21 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( start_time = '2017-04-21' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:12:41] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=100011&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100011' ) AND ( start_time = '2017-04-24' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:12:41] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=100011&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100011' ) AND ( start_time = '2017-04-24' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:13:16] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=100011&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100011' ) AND ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:13:16] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=100011&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100011' ) AND ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:13:21] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-04 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( start_time = '1491235200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:13:21] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-04 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( start_time = '1491235200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:14:23] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-04 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( start_time = '1491235200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:14:23] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-04 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( start_time = '1491235200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:14:46] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-04 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( start_time = '1491235200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:14:46] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-04 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( start_time = '1491235200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:15:07] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-04 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( start_time = '1491235200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:15:07] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-04 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( start_time = '1491235200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:15:12] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-04 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( start_time = '1491235200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:15:12] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-04 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( start_time = '1491235200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:15:56] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-04 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( start_time = '1491235200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:15:56] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-04 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( start_time = '1491235200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:15:57] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-04 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( start_time = '1491235200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:15:57] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&search_status=&search_start_time=2017-04-04 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( start_time = '1491235200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:16:00] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:16:00] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:16:39] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:16:39] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:16:58] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:16:58] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:17:09] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:17:09] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:17:11] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:17:11] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:17:11] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:17:11] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:18:05] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:18:05] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=++2017-04-24+ ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1492963200' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:18:24] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=2017-04-13 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1492012800' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:18:24] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=2017-04-13 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1492012800' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:18:45] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=2017-04-13 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1492012800' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:18:45] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=2017-04-13 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1492012800' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:19:19] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=2017-04-13 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1492012800' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:19:19] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=2017-04-13 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1492012800' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:19:35] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=2017-04-13 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1492012800' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:19:35] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=2017-04-13 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1492012800' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:25:24] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=2017-04-13 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1492012800' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:25:24] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=2017-04-13 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1492012800' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:26:10] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=2017-04-01&search_end_time=2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1490976000' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:26:10] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=2017-04-01&search_end_time=2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1490976000' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:26:45] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=2017-04-01&search_end_time=2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1490976000' ) AND ( end_time = '1493481600' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:26:45] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100010&search_start_time=2017-04-01&search_end_time=2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100010' ) AND ( start_time = '1490976000' ) AND ( end_time = '1493481600' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:28:49] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100011&search_start_time=++2017-04-01&search_end_time=++2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100011' ) AND ( start_time = '1490976000' ) AND ( end_time = '1493481600' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:28:49] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100011&search_start_time=++2017-04-01&search_end_time=++2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100011' ) AND ( start_time = '1490976000' ) AND ( end_time = '1493481600' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:29:14] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100011&search_start_time=++2017-04-01&search_end_time=++2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100011' ) AND ( start_time = '1490976000' ) AND ( end_time = '1493481600' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:29:14] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100011&search_start_time=++2017-04-01&search_end_time=++2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100011' ) AND ( start_time = '1490976000' ) AND ( end_time = '1493481600' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:40:03] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100011&search_start_time=++2017-04-01&search_end_time=++2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100011' ) AND ( start_time = '1490976000' ) AND ( end_time = '1493481600' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:40:03] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100011&search_start_time=++2017-04-01&search_end_time=++2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100011' ) AND ( start_time = '1490976000' ) AND ( end_time = '1493481600' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:40:27] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100011&search_start_time=++2017-04-01&search_end_time=++2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100011' ) AND ( start_time = '1490976000' ) AND ( end_time = '1493481600' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:40:27] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100011&search_start_time=++2017-04-01&search_end_time=++2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100011' ) AND ( start_time = '1490976000' ) AND ( end_time = '1493481600' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 11:40:52] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100011&search_start_time=++2017-04-01&search_end_time=++2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE ( pay_goods_id = '100011' ) AND ( start_time = '1490976000' ) AND ( end_time = '1493481600' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 1  
+[2017-04-24 11:40:52] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_goods_id=100011&search_start_time=++2017-04-01&search_end_time=++2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'start_time' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE ( pay_goods_id = '100011' ) AND ( start_time = '1490976000' ) AND ( end_time = '1493481600' ) AND ( store_id = '2' ) AND ( privilege_status = '20' ) ORDER BY id desc LIMIT 0,12  
+[2017-04-24 13:30:28] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_buyer_id=2&pay_goods_id=100010&search_start_time=++2017-04-01&search_end_time=++2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'pay_buyer_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE  `store_id` = '2' and `privilege_status` = '20'  and `pay_goods_id` = '100010'  and `pay_buyer_id` = '2'  and `add_time` BETWEEN  '1490976000' and '1493567999'  ORDER BY id desc LIMIT 1  
+[2017-04-24 13:30:28] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_buyer_id=2&pay_goods_id=100010&search_start_time=++2017-04-01&search_end_time=++2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'pay_buyer_id' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE  `store_id` = '2' and `privilege_status` = '20'  and `pay_goods_id` = '100010'  and `pay_buyer_id` = '2'  and `add_time` BETWEEN  '1490976000' and '1493567999'  ORDER BY id desc LIMIT 0,12  
+[2017-04-24 13:30:36] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_buyer_id=2&pay_goods_id=&search_start_time=++2017-04-01&search_end_time=++2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'pay_buyer_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_rebate` WHERE  `store_id` = '2' and `privilege_status` = '20'  and `pay_buyer_id` = '2'  and `add_time` BETWEEN  '1490976000' and '1493567999'  ORDER BY id desc LIMIT 1  
+[2017-04-24 13:30:36] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index&pay_buyer_id=2&pay_goods_id=&search_start_time=++2017-04-01&search_end_time=++2017-04-30 ( act=store_brokerage&op=index ) 
+ERR: Db Error: Unknown column 'pay_buyer_id' in 'where clause'
+SELECT * FROM `33hao_rebate` WHERE  `store_id` = '2' and `privilege_status` = '20'  and `pay_buyer_id` = '2'  and `add_time` BETWEEN  '1490976000' and '1493567999'  ORDER BY id desc LIMIT 0,12  
+[2017-04-24 14:29:10] /Shopnc_b2b2c/shop/index.php?act=member_order&op=change_state&state_type=order_receive&order_id=4&inajax=1 ( act=member_order&op=change_state ) 
+ERR: Db Error: Column 'buyer_vip' cannot be null
+INSERT  INTO `33hao_rebate` (pay_num,pay_goods_name,pay_goods_id,order_sn,store_id,store_name,buyer_id,buyer_name,add_time,pay_name,pay_fee,status,creattime,buyer_vip,buyer_vip_name,privilege_status,privilege_type,privilege_name,privilege_time_type,privilege_time_name,privilege_val) VALUES ('80','测试商品','100010','9000000000000401','2','测试水厂店铺','4','swsflqh','1493015138','在线付款','0.80','1','1493015350',NULL,NULL,'20','1','销量','3','每季度','a:3:{i:10;s:2:\"30\";i:50;s:2:\"25\";i:80;s:2:\"33\";}')

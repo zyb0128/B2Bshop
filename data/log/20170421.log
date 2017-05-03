@@ -1,0 +1,27 @@
+[2017-04-21 15:46:30] /Shopnc_b2b2c/index.php?act=store_vip&op=vip_add ( act=store_vip&op=vip_add ) 
+ERR: Db Error: Table 'ceshi.33hao_member_vip' doesn't exist
+INSERT  INTO `33hao_member_vip` (vip_level_name,vip_level_seller_id,vip_level_cesttime) VALUES (NULL,'2','1492760790')
+[2017-04-21 15:49:17] /Shopnc_b2b2c/index.php?act=store_vip&op=seva_vip ( act=store_vip&op=seva_vip ) 
+ERR: Db Error: Table 'ceshi.33hao_member_vip' doesn't exist
+INSERT  INTO `33hao_member_vip` (vip_level_name,vip_level_seller_id,vip_level_cesttime) VALUES ('222','2','1492760957')
+[2017-04-21 15:50:58] /Shopnc_b2b2c/index.php?act=store_vip&op=seva_vip ( act=store_vip&op=seva_vip ) 
+ERR: Db Error: Table 'ceshi.33hao_member_vip' doesn't exist
+INSERT  INTO `33hao_member_vip` (vip_level_name,vip_level_seller_id,vip_level_cesttime) VALUES ('娃娃','2','1492761058')
+[2017-04-21 15:52:26] /Shopnc_b2b2c/index.php?act=store_vip&op=seva_vip ( act=store_vip&op=seva_vip ) 
+ERR: Db Error: Table 'ceshi.33hao_member_vip' doesn't exist
+INSERT  INTO `33hao_member_vip` (vip_level_name,vip_level_seller_id,vip_level_cesttime) VALUES ('娃娃','2','1492761146')
+[2017-04-21 15:52:38] /Shopnc_b2b2c/index.php?act=store_vip&op=seva_vip ( act=store_vip&op=seva_vip ) 
+ERR: Db Error: Table 'ceshi.33hao_member_vip' doesn't exist
+INSERT  INTO `33hao_member_vip` (vip_level_name,vip_level_seller_id,vip_level_cesttime) VALUES ('娃娃','2','1492761158')
+[2017-04-21 15:55:20] /Shopnc_b2b2c/index.php?act=store_vip&op=seva_vip ( act=store_vip&op=seva_vip ) 
+ERR: Db Error: Table 'ceshi.33hao_member_vip' doesn't exist
+INSERT  INTO `33hao_member_vip` (vip_level_name,vip_level_seller_id,vip_level_cesttime) VALUES ('娃娃','2','1492761320')
+[2017-04-21 18:44:08] /Shopnc_b2b2c/index.php?act=store_vip&op=ajax_updata ( act=store_vip&op=ajax_updata ) 
+ERR: Db Error: Unknown column 'buy_id' in 'where clause'
+UPDATE `33hao_member_seller` SET vip_id='0' WHERE ( buy_id = '1' )
+[2017-04-21 18:45:31] /Shopnc_b2b2c/index.php?act=store_vip&op=ajax_updata ( act=store_vip&op=ajax_updata ) 
+ERR: Db Error: Unknown column 'buy_id' in 'where clause'
+UPDATE `33hao_member_seller` SET vip_id='0' WHERE ( buy_id = '2' )
+[2017-04-21 18:46:39] /Shopnc_b2b2c/index.php?act=store_vip&op=ajax_updata ( act=store_vip&op=ajax_updata ) 
+ERR: Db Error: Unknown column 'buy_id' in 'where clause'
+UPDATE `33hao_member_seller` SET vip_id='1' WHERE ( buy_id = '2' )

@@ -1,0 +1,126 @@
+[2017-04-25 11:37:25] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493091445','100010','2','1','1.6','160')
+[2017-04-25 11:37:38] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493091458','100010','2','1','1.6','160')
+[2017-04-25 11:38:16] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493091496','100010','2','1','1.6','160')
+[2017-04-25 11:38:18] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2',NULL,'1493091498',NULL,NULL,'1','1.6','160')
+[2017-04-25 11:38:23] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493091503','100010','2','1','1.6','160')
+[2017-04-25 11:38:42] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2',NULL,'1493091522',NULL,NULL,'1','1.6','160')
+[2017-04-25 11:38:49] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493091529','100010','2','1','1.6','160')
+[2017-04-25 11:41:26] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493091686','100010','2','1','1.6','160')
+[2017-04-25 11:41:28] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493091688','100010','2','1','1.6','160')
+[2017-04-25 11:41:30] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493091690','100010','2','1','1.6','160')
+[2017-04-25 11:41:31] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2',NULL,'1493091691',NULL,NULL,'1','1.6','160')
+[2017-04-25 11:41:34] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2',NULL,'1493091694',NULL,NULL,'1','1.6','160')
+[2017-04-25 11:41:38] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2',NULL,'1493091698',NULL,NULL,'1','1.6','160')
+[2017-04-25 11:44:31] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493091871','100010','2','1','1.6','160')
+[2017-04-25 11:45:20] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493091920','100010','2','1','1.6','160')
+[2017-04-25 11:50:04] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493092204','100010','2','1','1.6','160')
+[2017-04-25 11:51:28] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493092288','100010','2','1','1.6','160')
+[2017-04-25 13:36:30] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493098590','100010','2','1','1.6','160')
+[2017-04-25 13:36:59] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493098619','100010','2','1','1.6','160')
+[2017-04-25 13:37:23] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493098643','100010','2','1','1.6','160')
+[2017-04-25 13:51:01] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num,updataId) VALUES ('2','4','1493099461','100010','2','1','1.6','160','6,3')
+[2017-04-25 13:51:11] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num,updataId) VALUES ('2','4','1493099471','100010','2','1','1.6','160','6,3')
+[2017-04-25 13:56:51] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num,updataId) VALUES ('2','4','1493099811','100010','2','1','1.6','160','6,3')
+[2017-04-25 13:56:53] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num,updataId) VALUES ('2','4','1493099813','100010','2','1','1.6','160','6,3')
+[2017-04-25 13:57:14] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num,updataId) VALUES ('2','4','1493099834','100010','2','1','1.6','160','6,3')
+[2017-04-25 13:59:20] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num,updataId) VALUES ('2','4','1493099960','100010','2','1','1.6','160','6,3')
+[2017-04-25 13:59:22] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num,updataId) VALUES ('2','4','1493099962','100010','2','1','1.6','160','6,3')
+[2017-04-25 13:59:23] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num,updataId) VALUES ('2','4','1493099963','100010','2','1','1.6','160','6,3')
+[2017-04-25 13:59:24] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num,updataId) VALUES ('2','4','1493099964','100010','2','1','1.6','160','6,3')
+[2017-04-25 13:59:25] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num,updataId) VALUES ('2','4','1493099965','100010','2','1','1.6','160','6,3')
+[2017-04-25 13:59:25] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num,updataId) VALUES ('2','4','1493099965','100010','2','1','1.6','160','6,3')
+[2017-04-25 13:59:26] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num,updataId) VALUES ('2','4','1493099966','100010','2','1','1.6','160','6,3')
+[2017-04-25 13:59:27] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num,updataId) VALUES ('2','4','1493099967','100010','2','1','1.6','160','6,3')
+[2017-04-25 13:59:27] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num,updataId) VALUES ('2','4','1493099967','100010','2','1','1.6','160','6,3')
+[2017-04-25 14:07:13] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'store_id' in 'field list'
+INSERT  INTO `33hao_rebate_log` (store_id) VALUES ('2')
+[2017-04-25 14:09:16] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493100556','100010','2','1','1.6','160')
+[2017-04-25 14:09:49] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493100589','100010','2','1','1.6','160')
+[2017-04-25 14:09:50] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=store_brokerage&op=index_quarter&submit=ok&pay_buyer_id=4&pay_goods_id=100010&pay_quarter=2 ( act=store_brokerage&op=index_quarter ) 
+ERR: Db Error: Unknown column 'pay_num' in 'field list'
+INSERT  INTO `33hao_rebate_quarter` (store_id,buyer_id,add_time,goods_id,quarter,buyer_vip,pay_fee,pay_num) VALUES ('2','4','1493100590','100010','2','1','1.6','160')
+[2017-04-25 15:57:39] /Shopnc_b2b2c/index.php?act=store_brokerage&op=pay&secret=eyJidXlOdW0iOiIxNjAiLCJidXlGZWUiOiIxLjYiLCJzZWxsZXJfaWQiOiIyIiwic2NhbGUiOjAuMzMsInNjYWxlX2ZlZSI6MC41MjgsInNlYXJjaElkIjpudWxsfQ== ( act=store_brokerage&op=pay ) 
+ERR: Db Error: Column 'searchId' cannot be null
+INSERT  INTO `33hao_rebate_log` (buyNum,buyFee,seller_name,seller_id,scale,scale_fee,searchId,searchTime,privilege_val,add_time) VALUES ('e','e','e','e','e','e',NULL,'e','e','1493107059')
+[2017-04-25 15:59:22] /Shopnc_b2b2c/index.php?act=store_brokerage&op=pay&secret=eyJidXlOdW0iOiIxNjAiLCJidXlGZWUiOiIxLjYiLCJzZWxsZXJfaWQiOiIyIiwic2NhbGUiOjAuMzMsInNjYWxlX2ZlZSI6MC41MjgsInNlYXJjaElkIjpudWxsfQ== ( act=store_brokerage&op=pay ) 
+ERR: Db Error: Column 'seller_name' cannot be null
+INSERT  INTO `33hao_rebate_log` (buyNum,buyFee,seller_name,seller_id,scale,scale_fee,searchId,searchTime,privilege_val,add_time) VALUES ('160','1.6',NULL,'2','0.33','0.528',NULL,NULL,NULL,'1493107162')
+[2017-04-25 16:03:09] /Shopnc_b2b2c/index.php?act=store_brokerage&op=pay&secret=eyJidXlOdW0iOiIxNjAiLCJidXlGZWUiOiIxLjYiLCJzZWxsZXJfaWQiOiIyIiwic2NhbGUiOjAuMzMsInNjYWxlX2ZlZSI6MC41MjgsInNlYXJjaElkIjoiNiwzIn0= ( act=store_brokerage&op=pay ) 
+ERR: Db Error: Column 'seller_name' cannot be null
+INSERT  INTO `33hao_rebate_log` (buyNum,buyFee,seller_name,seller_id,scale,scale_fee,searchId,searchTime,privilege_val,add_time) VALUES ('160','1.6',NULL,'2','0.33','0.528','6,3',NULL,NULL,'1493107389')
+[2017-04-25 20:56:57] /Shopnc_b2b2c/index.php?act=store_brokerage&op=pay&secret=eyJzY2FsZSI6MC4yNSwic2NhbGVfZmVlIjowLjIsInNlYXJjaElkIjoiOSIsInR5cGUiOiJyZWJhdGVfb25lIiwic2VhcmNoVGltZSI6IiwiLCJwcml2aWxlZ2VfdmFsIjoiYTozOntpOjIwO3M6MjpcIjMwXCI7aTo4MDtzOjI6XCIyNVwiO2k6MTUwO3M6MjpcIjMzXCI7fSJ9 ( act=store_brokerage&op=pay ) 
+ERR: Db Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from) VALUES (NULL,NULL,NULL,NULL,'0.25','0.2','9',',','a:3:{i:20;s:2:\"30\";i:8' at line 1
+INSERT  INTO `33hao_rebate_log` (buyNum,buyFee,seller_name,seller_id,scale,scale_fee,searchId,searchTime,privilege_val,add_time,from) VALUES (NULL,NULL,NULL,NULL,'0.25','0.2','9',',','a:3:{i:20;s:2:\"30\";i:80;s:2:\"25\";i:150;s:2:\"33\";}','1493125017','rebate_one')

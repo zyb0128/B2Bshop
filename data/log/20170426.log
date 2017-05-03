@@ -1,0 +1,15 @@
+[2017-04-26 11:05:47] /Shopnc_b2b2c/index.php?act=store_privilege&op=store_bao ( act=store_privilege&op=store_bao ) 
+ERR: Db Error: Unknown column 'privilege_vip' in 'where clause'
+SELECT * FROM `33hao_privilege` WHERE ( goods_id = '100010' ) AND ( privilege_vip = '2' ) LIMIT 1  
+[2017-04-26 11:06:26] /Shopnc_b2b2c/index.php?act=store_privilege&op=store_bao ( act=store_privilege&op=store_bao ) 
+ERR: Db Error: Unknown column 'privilege_vip' in 'where clause'
+SELECT * FROM `33hao_privilege` WHERE ( goods_id = '100010' ) AND ( privilege_vip = '2' ) LIMIT 1  
+[2017-04-26 16:46:16] /Shopnc_b2b2c/member/index.php?act=member_mysigned&op=agree ( act=member_mysigned&op=agree ) 
+ERR: Db Error: Unknown column 'id' in 'where clause'
+SELECT * FROM `33hao_member` WHERE ( id = '4' ) AND ( member_passwd = 'e10adc3949ba59abbe56e057f20f883e' ) LIMIT 1  
+[2017-04-26 16:47:15] /Shopnc_b2b2c/member/index.php?act=member_mysigned&op=agree ( act=member_mysigned&op=agree ) 
+ERR: Db Error: Unknown column 'id' in 'where clause'
+SELECT * FROM `33hao_member` WHERE ( id = '4' ) AND ( member_passwd = 'e10adc3949ba59abbe56e057f20f883e' ) LIMIT 1  
+[2017-04-26 16:47:34] /Shopnc_b2b2c/member/index.php?act=member_mysigned&op=agree ( act=member_mysigned&op=agree ) 
+ERR: Db Error: Unknown column 'id' in 'where clause'
+SELECT * FROM `33hao_member` WHERE ( id = '4' ) AND ( member_passwd = 'e10adc3949ba59abbe56e057f20f883e' ) LIMIT 1  

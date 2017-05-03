@@ -1,0 +1,9 @@
+[2017-04-14 10:04:00] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=order_call&op=getajaxorder ( act=order_call&op=getajaxorder ) 
+ERR: Db Error: Unknown column 'is_print' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `33hao_orders` WHERE ( store_id = '2' ) AND ( order_state = '20' ) AND ( is_print = '0' ) LIMIT 1  
+[2017-04-14 10:04:00] http://192.168.0.174/Shopnc_b2b2c/shop/index.php?act=order_call&op=getajaxorder ( act=order_call&op=getajaxorder ) 
+ERR: Db Error: Unknown column 'is_print' in 'where clause'
+SELECT * FROM `33hao_orders` WHERE ( store_id = '2' ) AND ( order_state = '20' ) AND ( is_print = '0' ) ORDER BY order_id desc LIMIT 0,20  
+[2017-04-14 10:25:55] /Shopnc_b2b2c/index.php?act=goods&op=addbrowse&gid=100010 ( act=goods&op=addbrowse ) 
+ERR: Db Error: Duplicate entry '100010-2' for key 'PRIMARY'
+INSERT  INTO `33hao_goods_browse` (goods_id,member_id,browsetime,gc_id,gc_id_1,gc_id_2,gc_id_3) VALUES ('100010','2','1492136755','633','593','599','633')
