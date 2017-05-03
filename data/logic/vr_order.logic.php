@@ -187,11 +187,14 @@ class vr_orderLogic {
 				$update_order['pdr_payment_state'] = 1;
 				$update = $model_vr_order->editSbOrder($update_order,array('pdr_sn'=>$order_info['pdr_sn']));
 
+				//更新用户水币值
+				$model_member = Model('member');
+				$userInfo = $model_member -> getMemberInfoByID($_info['pdr_member_id']);
+				$updataUser['water_fee'] = $userInfo['water_fee']*1 + $_info['pdr_amount']*1;
+				$commUser['member_id'] = $_info['pdr_member_id'];
+				$model_member -> editMember($commUser,$updataUser);
+
 				if (!$update) {
-					//更新用户水币值
-					
-
-
 					throw new Exception(L('nc_common_save_fail'));
 				}
 

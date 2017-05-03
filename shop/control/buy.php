@@ -370,7 +370,6 @@ class buyControl extends BaseBuyControl {
 			showMessage('暂未找到合适的支付方式',urlMember('predeposit'),'html','error');
 		}
 		Tpl::output('payment_list',$payment_list);
-
 		//标识 购买流程执行第几步
 		Tpl::output('buy_sb_step','step1');
 		Tpl::showpage('predeposit_sb_pay');
